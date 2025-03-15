@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>How to Save Big with Wolt Promo Codes</h1>
+        <h1>How to Save 15€ with the Wolt Promo Code 7QK5E7W</h1>
         <a href="https://get.wolt.com/7QK5E7W">
             <img src="https://raw.githubusercontent.com/woltpromo/wolt-promo-code/refs/heads/main/7qk5e7w.png" alt="Wolt Promo code 7QK5E7W" />
         </a>
